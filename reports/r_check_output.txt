@@ -1,0 +1,12 @@
+Users        ad: 564577  psa: 23524 
+Conversions  ad: 14423  psa: 420 
+Rates        ad: 2.5547%  psa: 1.7854%
+Absolute lift: 0.7692 pp   Relative lift: 43.09%
+X-squared: 54.3181   (sqrt = z = 7.3701)
+One-sided p-value: 8.5264e-14
+Two-sided 95% CI for the difference: [0.5951, 0.9434] pp
+
+Match with Python (reports/results.json):
+       z  p_value ci_lower ci_upper 
+    TRUE     TRUE     TRUE     TRUE 
+All checks passed: R and Python agree.
