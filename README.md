@@ -96,3 +96,4 @@ python scripts/verify_sql.py
 - Holm, S. (1979). A simple sequentially rejective multiple test procedure. *Scandinavian Journal of Statistics*, 6(2), 65–70.
 - Kohavi, R., Tang, D., & Xu, Y. (2020). *Trustworthy Online Controlled Experiments.* Cambridge University Press. (Sample ratio mismatch, guardrail metrics, holdouts.)
 - statsmodels documentation: `proportions_ztest`, `confint_proportions_2indep`, `NormalIndPower`.
+# ab-test-marketing-campaign
